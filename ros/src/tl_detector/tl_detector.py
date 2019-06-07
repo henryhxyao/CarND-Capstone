@@ -100,7 +100,7 @@ class TLDetector(object):
             int: index of the closest waypoint in self.waypoints
 
         """
-        #TODO implement
+        # TODO: implement
         return 0
 
     def get_light_state(self, light):
