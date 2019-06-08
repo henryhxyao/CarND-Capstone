@@ -11,5 +11,6 @@ export CMAKE_PREFIX_PATH="/home/henry/workspace/CarND-Capstone/ros/devel:$CMAKE_
 export LD_LIBRARY_PATH="/home/henry/workspace/CarND-Capstone/ros/devel/lib:$LD_LIBRARY_PATH"
 export PKG_CONFIG_PATH="/home/henry/workspace/CarND-Capstone/ros/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/home/henry/workspace/CarND-Capstone/ros/build"
+export PYTHONPATH="/home/henry/workspace/CarND-Capstone/ros/devel/lib/python2.7/dist-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/henry/workspace/CarND-Capstone/ros/devel/share/common-lisp"
 export ROS_PACKAGE_PATH="/home/henry/workspace/CarND-Capstone/ros/src:$ROS_PACKAGE_PATH"
